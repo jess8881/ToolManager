@@ -21,10 +21,10 @@ ToolManager 애플리케이션 적용 후 관리 방식
 ### 1인 개발(설계, 구현, 배포, 유지 및 보수)
 ---
 ### 개발 환경
-Visual Basic .NET
-DataBase: MySQL
-IDE: Visual Studio 2019
----
+- Visual Basic .NET
+- DataBase: MySQL
+- IDE: Visual Studio 2019
+
 ### 주요 기능
 - 지그의 조회, 등록, 수정, 폐기
 - 제판의 조회, 등록, 수정, 폐기
