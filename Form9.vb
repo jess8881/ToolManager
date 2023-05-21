@@ -7,7 +7,8 @@ Imports MySql.Data.MySqlClient
 '   <1>jig_no_table 전체 데이터 select
 
 
-Public Class Form9    Dim connection_jig As New MySqlConnection("server=localhost; Port=3306; database= jigfile; username=root; Password=*****; Convert Zero Datetime=True")
+Public Class Form9    
+    Dim connection_jig As New MySqlConnection("server=localhost; Port=3306; database= jigfile; username=root; Password=*****; Convert Zero Datetime=True")
 
 
     Public Sub InsFrmDB()
