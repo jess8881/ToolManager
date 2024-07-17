@@ -15,7 +15,7 @@ ToolManager 애플리케이션 적용 후 관리 방식
 
 
 ### 개발 기간
-2022.03~ 현재(3개 업체 운영 중)
+2022.03~ 현재
 - ToolManager1.0.7(newest version)
 
 ### 개발 인원
